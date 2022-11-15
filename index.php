@@ -135,15 +135,7 @@
                 <div class="login">    
                     <form class="row g-3" action="./stk_initiate.php" method="POST">
             
-                        <div class="col-12">
-                          <label for="inputAddress" class="form-label">Amount</label>
-                          <input type="text" class="form-control" name="amount" placeholder="Enter Amount">
-                        </div>
-                        <div class="col-12">
-                          <label for="inputAddress2" class="form-label" >Phone Number</label>
-                          <input type="text" class="form-control" name="phone"  placeholder="Enter Phone Number">
-                        </div>
-        
+                      
                         <div class="col-12">
                           <label for="inputAddress2" class="form-label" >Lucky Numbers</label>
                           <input type="text" class="form-control" name="luckynumbers"  placeholder="eg, 1, 10, 20, 30, 40">
@@ -153,9 +145,19 @@
                           <label for="inputAddress2" class="form-label" >Game</label>
                           <input type="text" class="form-control" name="game"  placeholder="Nuru">
                         </div>
-                     
+
                         <div class="col-12">
-                          <button type="submit" class="btn btn-success" name="submit" value="submit">Donate</button>
+                          <label for="inputAddress" class="form-label">Amount</label>
+                          <input type="text" class="form-control" name="amount" placeholder="Enter Amount">
+                        </div>
+
+                        <div class="col-12">
+                          <label for="inputAddress2" class="form-label" >Phone Number</label>
+                          <input type="text" class="form-control" name="phone"  placeholder="Enter Phone Number">
+                        </div>
+        
+                        <div class="col-12">
+                          <button type="submit" class="btn btn-success normal" name="submit" value="submit">Play</button>
                         </div>
                       </form>
                 </div>    
@@ -176,15 +178,7 @@
                 <div class="login">    
                 <form class="row g-3" action="./stk_initiate.php" method="POST">
             
-            <div class="col-12">
-              <label for="inputAddress" class="form-label">Amount</label>
-              <input type="text" class="form-control" name="amount" placeholder="Enter Amount">
-            </div>
-            <div class="col-12">
-              <label for="inputAddress2" class="form-label" >Phone Number</label>
-              <input type="text" class="form-control" name="phone"  placeholder="Enter Phone Number">
-            </div>
-
+                      
             <div class="col-12">
               <label for="inputAddress2" class="form-label" >Lucky Numbers</label>
               <input type="text" class="form-control" name="luckynumbers"  placeholder="eg, 1, 10, 20, 30, 40">
@@ -194,9 +188,19 @@
               <label for="inputAddress2" class="form-label" >Game</label>
               <input type="text" class="form-control" name="game"  placeholder="Nuru">
             </div>
-         
+
             <div class="col-12">
-              <button type="submit" class="btn btn-success" name="submit" value="submit">Donate</button>
+              <label for="inputAddress" class="form-label">Amount</label>
+              <input type="text" class="form-control" name="amount" placeholder="Enter Amount">
+            </div>
+
+            <div class="col-12">
+              <label for="inputAddress2" class="form-label" >Phone Number</label>
+              <input type="text" class="form-control" name="phone"  placeholder="Enter Phone Number">
+            </div>
+
+            <div class="col-12">
+              <button type="submit" class="btn btn-success normal" name="submit" value="submit">Play</button>
             </div>
           </form>
                 </div>    
