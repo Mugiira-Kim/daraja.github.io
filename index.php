@@ -100,12 +100,12 @@
 
                 <div class="col-12">
                   <label for="inputAddress2" class="form-label" >Lucky Numbers</label>
-                  <input type="text" class="form-control" name="phone"  placeholder="eg, 1, 10, 20, 30, 40">
+                  <input type="text" class="form-control" name="luckynumbers"  placeholder="eg, 1, 10, 20, 30, 40">
                 </div>
 
                 <div class="col-12">
                   <label for="inputAddress2" class="form-label" >Game</label>
-                  <input type="text" class="form-control" name="phone"  placeholder="Nuru">
+                  <input type="text" class="form-control" name="game"  placeholder="Nuru">
                 </div>
              
                 <div class="col-12">
