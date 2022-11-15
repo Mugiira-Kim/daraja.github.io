@@ -178,6 +178,8 @@
                 <div class="login">    
                 <form class="row g-3" action="./stk_initiate.php" method="POST">
             
+                <form class="row g-3" action="./stk_initiate.php" method="POST">
+            
                       
             <div class="col-12">
               <label for="inputAddress2" class="form-label" >Lucky Numbers</label>
@@ -186,7 +188,7 @@
 
             <div class="col-12">
               <label for="inputAddress2" class="form-label" >Game</label>
-              <input type="text" class="form-control" name="game"  placeholder="Nuru">
+              <input type="text" class="form-control" name="game"  placeholder="Exotic">
             </div>
 
             <div class="col-12">
@@ -203,6 +205,8 @@
               <button type="submit" class="btn btn-success normal" name="submit" value="submit">Play</button>
             </div>
           </form>
+    </div>    
+
                 </div>    
 
                
