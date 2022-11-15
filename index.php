@@ -173,14 +173,11 @@
                 <div class="des">
                    
                   
-                  <!--  <h4 style="color: black ;">Play for a night with an exotic escort (White/Indian)</h4>
-                </div> -->
+                   <h4 style="color: black ;">Play for a night with an exotic escort (White/Indian)</h4>
+                </div> 
                 <div class="login">    
                 <form class="row g-3" action="./stk_initiate.php" method="POST">
-            
-                <form class="row g-3" action="./stk_initiate.php" method="POST">
-            
-                      
+                    
             <div class="col-12">
               <label for="inputAddress2" class="form-label" >Lucky Numbers</label>
               <input type="text" class="form-control" name="luckynumbers"  placeholder="eg, 1, 10, 20, 30, 40">
