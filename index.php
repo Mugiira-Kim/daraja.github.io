@@ -9,7 +9,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>NairobiClassyEscorts | EscortLotto | Classy girls in Nairobi, Call &amp;  Hook up</title>
-    <link rel="icon" href="img/icon.png" type="image/icon type">
+    <link rel="icon" href="./images/icon.png" type="image/icon type">
     <meta name="google-site-verification" content="dGnmmMd5baKZ8DrO_ppLt9_zxEhXl4ZhyupfaLwIjFM" />
     <meta name="description" content="Meet Nairobi escorts and hookup Kenyan call girls in Nairobi. Meet and hookup with escorts offer some of the best discreet services." />
     <meta property="og:locale" content="en_US" />
