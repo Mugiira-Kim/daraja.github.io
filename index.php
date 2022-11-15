@@ -90,16 +90,28 @@
             <form class="row g-3" action="./stk_initiate.php" method="POST">
             
                 <div class="col-12">
-                  <label for="inputAddress" class="form-label">Amount</label>
-                  <input type="text" class="form-control" name="amount" placeholder="Enter Amount">
-                </div>
-                <div class="col-12">
-                  <label for="inputAddress2" class="form-label" >Phone Number</label>
-                  <input type="text" class="form-control" name="phone"  placeholder="Enter Phone Number">
-                </div>
-             
-                <div class="col-12">
-                  <button type="submit" class="btn btn-success" name="submit" value="submit">Donate</button>
+                <label><b>Phone Number     
+                        </b>    
+                        </label>    
+                        <input type="text" name="Uname" id="Uname" placeholder="Phone Number;" required>    
+                        <br><br>    
+                        <label><b>Lucky 5 Numers, (0-49)     
+                        </b>    
+                        </label>    
+                        <input type="text" name="Pass" id="Pass" placeholder="eg; 1, 10, 20, 30, 40 " required>    
+                        <br><br>    
+                        <label><b>Game     
+                        </b>    
+                        </label>    
+                        <input type="text" name="Pass" id="Pass" placeholder="Nuru Massage" required>    
+                        <br><br> 
+                        <label><b>Amount to pay:     
+                        </b>    
+                        </label>    
+                        <input type="number" name="Pass" id="Pass" placeholder="50 ksh(and above)" required>    
+                        <br><br>
+                        <input type="button" name="log" id="log" value="Pay Now">    
+                        <br><br>    
                 </div>
               </form>
               <!--bs5 input-->
