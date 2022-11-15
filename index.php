@@ -138,22 +138,22 @@
                       
                         <div class="col-12">
                           <label for="inputAddress2" class="form-label" >Lucky Numbers</label>
-                          <input type="text" class="form-control" name="luckynumbers"  placeholder="eg, 1, 10, 20, 30, 40">
+                          <input type="text" class="form-control" name="luckynumbers"  placeholder="eg, 1, 10, 20, 30, 40" required>
                         </div>
         
                         <div class="col-12">
                           <label for="inputAddress2" class="form-label" >Game</label>
-                          <input type="text" class="form-control" name="game"  placeholder="Nuru">
+                          <input type="text" class="form-control" name="game"  placeholder="Nuru" required>
                         </div>
 
                         <div class="col-12">
                           <label for="inputAddress" class="form-label">Amount</label>
-                          <input type="text" class="form-control" name="amount" placeholder="Enter Amount">
+                          <input type="text" class="form-control" name="amount" placeholder="Enter Amount" required>
                         </div>
 
                         <div class="col-12">
                           <label for="inputAddress2" class="form-label" >Phone Number</label>
-                          <input type="text" class="form-control" name="phone"  placeholder="Enter Phone Number">
+                          <input type="text" class="form-control" name="phone"  placeholder="Enter Phone Number" required>
                         </div>
         
                         <div class="col-12">
@@ -180,22 +180,22 @@
                     
             <div class="col-12">
               <label for="inputAddress2" class="form-label" >Lucky Numbers</label>
-              <input type="text" class="form-control" name="luckynumbers"  placeholder="eg, 1, 10, 20, 30, 40">
+              <input type="text" class="form-control" name="luckynumbers"  placeholder="eg, 1, 10, 20, 30, 40" required>
             </div>
 
             <div class="col-12">
               <label for="inputAddress2" class="form-label" >Game</label>
-              <input type="text" class="form-control" name="game"  placeholder="Exotic">
+              <input type="text" class="form-control" name="game"  placeholder="Exotic" required>
             </div>
 
             <div class="col-12">
               <label for="inputAddress" class="form-label">Amount</label>
-              <input type="text" class="form-control" name="amount" placeholder="Enter Amount">
+              <input type="text" class="form-control" name="amount" placeholder="Enter Amount" required>
             </div>
 
             <div class="col-12">
               <label for="inputAddress2" class="form-label" >Phone Number</label>
-              <input type="text" class="form-control" name="phone"  placeholder="Enter Phone Number">
+              <input type="text" class="form-control" name="phone"  placeholder="Enter Phone Number" required>
             </div>
 
             <div class="col-12">
