@@ -96,16 +96,16 @@
 <body>
 
     <section id="header">
-        <a href="index.html" class="Nairobi"> NairobiClassyEscorts</a>
+        <a href="https://www.nairobiclassyescorts.com/" class="Nairobi"> NairobiClassyEscorts</a>
 
         <div>
             <ul id="navbar">
-                <li><a class="active" href="index.html">Home</a></li>
-              <li><a href="escorts.html">Escorts</a></li> 
+                <li><a class="active" href="https://www.nairobiclassyescorts.com/">Home</a></li>
+              <li><a href="https://www.nairobiclassyescorts.com/escorts.html">Escorts</a></li> 
                 <li><a href="#How">How To Play</a></li>
-                <li><a href="blog.html">Blog</a></li>
-                <li><a href="about.html">About</a></li>
-                <li><a href="contact.html">Contact</a></li>
+                <li><a href="https://www.nairobiclassyescorts.com/blog.html">Blog</a></li>
+                <li><a href="https://www.nairobiclassyescorts.com/about.html">About</a></li>
+                <li><a href="https://www.nairobiclassyescorts.com/contact.html">Contact</a></li>
             
 
         <a href="#" id="close"><i class="far fa-times"></i></a>
@@ -312,7 +312,7 @@ Finally, sexual activity with minors below the age of 18 is prohibited, and as s
 
     <footer class="section-p1">
         <div class="col">
-            <a href="index.html" class="Nairobi"> NairobiClassyEscorts</a> <button class="normal" id="maroon" onclick="window.location.href='postAd.html';" type="submit" type="submit">Post An Ad</button> <br>
+            <a href="https://www.nairobiclassyescorts.com/index.html" class="Nairobi"> NairobiClassyEscorts</a> <button class="normal" id="maroon" onclick="window.location.href='postAd.html';" type="submit" type="submit">Post An Ad</button> <br>
             <h4>Contact</h4>
             <p><strong>Address: </strong> Nairobi, Kenya</p>
             <p><strong>Phone:</strong>     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
@@ -333,20 +333,20 @@ Finally, sexual activity with minors below the age of 18 is prohibited, and as s
 
         <div class="col">
             <h4>About</h4>
-            <a href="about.html">About Us</a>
-            <a href="blog.html">Blog</a>
+            <a href="https://www.nairobiclassyescorts.com/about.html">About Us</a>
+            <a href="https://www.nairobiclassyescorts.com/blog.html">Blog</a>
             <a href="#">Privacy Policy</a>
             <a href="#">Terms & Conditions</a>
-            <a href="contact.html">Contact Us</a>
+            <a href="https://www.nairobiclassyescorts.com/contact.html">Contact Us</a>
         </div>
 
         <div class="col">
             <h4>NairobiClassyEscorts</h4>
-            <a href="escorts.html">Escorts</a>
-            <a href="escorts.html">Go on a Date</a>
-            <a href="maleEscorts.html">Male Escorts</a>
-            <a href="queerkenyaescorts.html">Queer Escorts</a>
-            <a href="#">Events</a>
+            <a href="https://www.nairobiclassyescorts.com/escorts.html">Escorts</a>
+            <a href="https://www.nairobiclassyescorts.com/escorts.html">Go on a Date</a>
+            <a href="https://www.nairobiclassyescorts.com/maleEscorts.html">Male Escorts</a>
+            <a href="https://www.nairobiclassyescorts.com/queerkenyaescorts.html">Queer Escorts</a>
+            <a href="#">Escort Lotto</a>
             <a href="#">Help</a>
         </div>
 
