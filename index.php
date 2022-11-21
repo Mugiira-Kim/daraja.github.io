@@ -187,7 +187,7 @@
 <div class="form-style-5">
 <form>
 <fieldset>
-<legend><span class="number"></span> Your Info</legend>
+
 <input type="text" name="field1" placeholder="Your Name *" required>
 <input type="email" name="field2" placeholder="Your Email *" required>
 <input type="text" class="form-control" name="luckynumbers"  placeholder="eg, 1, 10, 20, 30, 40" required>
@@ -214,7 +214,7 @@
                 <div class="form-style-5">
 <form>
 <fieldset>
-<legend><span class="number"></span> Your Info</legend>
+
 <input type="text" name="field1" placeholder="Your Name *" required>
 <input type="email" name="field2" placeholder="Your Email *" required>
 <input type="text" class="form-control" name="luckynumbers"  placeholder="eg, 1, 10, 20, 30, 40" required>
