@@ -175,16 +175,16 @@
         <p>Play and win a night with premium escorts and more!</p> 
         <div class="pro-container"  >
 
-       <!---->     <div class="pro" style="background-color: #1c87c9 ;">
+          <div class="pro" style="background-color: #1c87c9 ;">
                 <img src="./images/bidnow.png" alt="">
                 <div class="des">
                    
                   
-                    <h4></h4>
+                    <h4>Coming Soon!</h4>
                 </div>
                
    
-<div class="form-style-5">
+<!-- <div class="form-style-5">
 <form action="https://sandbox.safaricom.co.ke/mpesa/c2b/v1/simulate" method="POST"
 >
 <fieldset>
@@ -199,7 +199,7 @@
 </fieldset>
 <input type="submit" value="Play" />
 </form>
-</div>
+</div>  --->
                       
 
             </div>
@@ -211,8 +211,11 @@
                    
                   
                    <h4 style="color: black ;">Play for a night with an exotic escort (White/Indian)</h4>
+
+                   <h4>Coming Soon!</h4>
                 </div> 
-                <div class="form-style-5">
+             
+            <!----     <div class="form-style-5">
 <form action="https://sandbox.safaricom.co.ke/mpesa/c2b/v1/simulate" method="POST"> 
 <fieldset>
 
@@ -226,7 +229,7 @@
 </fieldset>
 <input type="submit" value="Play" />
 </form>
-</div>
+</div> -->
 
                 </div>    
 
