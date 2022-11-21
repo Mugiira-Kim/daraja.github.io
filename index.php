@@ -185,7 +185,8 @@
                
    
 <div class="form-style-5">
-<form>
+<form action="stkpay.php" method="POST"
+>
 <fieldset>
 
 <input type="text" name="field1" placeholder="Your Name *" required>
@@ -212,7 +213,7 @@
                    <h4 style="color: black ;">Play for a night with an exotic escort (White/Indian)</h4>
                 </div> 
                 <div class="form-style-5">
-<form>
+<form action="stkpay.php" method="POST"> 
 <fieldset>
 
 <input type="text" name="field1" placeholder="Your Name *" required>
