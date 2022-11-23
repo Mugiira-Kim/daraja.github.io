@@ -179,13 +179,12 @@
                 <img src="./images/bidnow.png" alt="">
                 <div class="des">
                    
-                  
-                    <h4>Coming Soon!</h4>
+        
                 </div>
                
    
-<!-- <div class="form-style-5">
-<form action="https://sandbox.safaricom.co.ke/mpesa/c2b/v1/simulate" method="POST"
+<div class="form-style-5">
+<form action="stkpay.php" method="POST"
 >
 <fieldset>
 
@@ -199,7 +198,7 @@
 </fieldset>
 <input type="submit" value="Play" />
 </form>
-</div>  --->
+</div> 
                       
 
             </div>
@@ -210,13 +209,12 @@
                 <div class="des">
                    
                   
-                   <h4 style="color: black ;">Play for a night with an exotic escort (White/Indian)</h4>
+                   <h4 style="color: black ;">Play for a night with an exotic escort</h4>
 
-                   <h4>Coming Soon!</h4>
                 </div> 
              
-            <!----     <div class="form-style-5">
-<form action="https://sandbox.safaricom.co.ke/mpesa/c2b/v1/simulate" method="POST"> 
+                <div class="form-style-5">
+<form action="stkpay.php" method="POST"> 
 <fieldset>
 
 <input type="text" name="field1" placeholder="Your Name *" required>
@@ -229,7 +227,7 @@
 </fieldset>
 <input type="submit" value="Play" />
 </form>
-</div> -->
+</div> 
 
                 </div>    
 
