@@ -130,6 +130,9 @@
 {
 	background: #109177;
 }
+ul {
+    color: white;
+}
 </style>
 </head>
 
