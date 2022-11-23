@@ -223,7 +223,7 @@
 </fieldset>
 <input type="submit" name="submit" value="Play" />
 </form>
-<a href="#How">Learn More</a>
+<a  href="#How">Learn More</a>
 </div> 
 
                 </div>    
@@ -239,7 +239,27 @@
     <section id="newsletter" class="section-p1 section-m1">
         <div class="newstext">
             <h4 id="How">Escort Lotto: How it works.</h4>
-            <p>Have fun with premium escorts at crazy low prices by entering a unique number combination!
+            <p> <span style="color: orange;" > Have fun with premium escorts at crazy low prices! </span>
+<br>
+Payments are received by NARASIMHA ENTERPRISES. You will also receive a message from us confirming your entry into our lottery.  
+Winners are chosen at random each week; All participants will each receive a message on Sunday evening notifying them if they have been succesful or not before the 'lottery' starts afresh the following week. You can always try again the following week. The more you play the more you increase your chances of winning. <br>
+
+<h4>What to expect when you win</h4>
+<p>
+    You will receive a call from us on Sunday. These services are INCALLS ONLY! We will provide transport. Here are some of the perks you will enjoy;
+    <ul>
+        <li>A 10-hand Nuru massage with extras (6 hours) / An afternoon with an exotic escort</li>
+        <li>Manicure, Pedicure and face scrubs</li>
+        <li>Haircut</li>
+        <li>Food and drinks</li>
+        <li>Transport</li>
+        <li>Discount on future massages</li>
+    </ul>
+
+    <br>
+<a href="https://www.nairobiclassyescorts.com/">NairobiClassyEscorts</a> is determined to give you the best sexual experiences, do not hold back. Live out all your boyhood fantasies with <a href="https://www.nairobiclassyescorts.com/">NairobiClassyEscorts</a>.
+  
+</p>
 <br> <br>
                 To participate, send a minimum of Ksh 50 to ######, with the game you're playing and your number combination as the account number.
                 <br> <br>
