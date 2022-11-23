@@ -172,7 +172,7 @@
 
     <section id="product1" class="section-p1">
         <h2>Escort Lotto</h2>
-        <p>Play and win a night with premium escorts and more!</p> 
+        <p>Live out your fantasies with NairobiClassyEscorts!</p> 
         <div class="pro-container"  >
 
           <div class="pro" style="background-color: #1c87c9 ;">
@@ -188,9 +188,7 @@
 >
 <fieldset>
 
-<input type="text" name="field1" placeholder="Your Name *" required>
-<input type="email" name="field2" placeholder="Your Email *" required>
-<input type="text" class="form-control" name="luckynumbers"  placeholder="eg, 1, 10, 20, 30, 40" required>
+<input type="text" name="field1" placeholder="Nick-name *" required>
 <input type="text" class="form-control" name="gametype"  placeholder="Nuru" required>
 <input type="text" class="form-control" name="phone"  placeholder="254xxxxxxxxx" required>
 
@@ -198,6 +196,7 @@
 </fieldset>
 <input type="submit" value="Play" />
 </form>
+<a href="#How">Learn More</a>
 </div> 
                       
 
@@ -210,23 +209,21 @@
                    
                   
                    <h4 style="color: black ;">Play for a night with an exotic escort</h4>
-
+                            
                 </div> 
              
                 <div class="form-style-5">
 <form action="stkpay.php" method="POST"> 
 <fieldset>
 
-<input type="text" name="field1" placeholder="Your Name *" required>
-<input type="email" name="field2" placeholder="Your Email *" required>
-<input type="text" class="form-control" name="luckynumbers"  placeholder="eg, 1, 10, 20, 30, 40" required>
+<input type="text" name="field1" placeholder="Nick-name *" required>
 <input type="text" class="form-control" name="gametype"  placeholder="Exotic" required>
 <input type="text" class="form-control" name="phone"  placeholder="254xxxxxxxxx" required>
-
-
+   
 </fieldset>
-<input type="submit" value="Play" />
+<input type="submit" name="submit" value="Play" />
 </form>
+<a href="#How">Learn More</a>
 </div> 
 
                 </div>    
